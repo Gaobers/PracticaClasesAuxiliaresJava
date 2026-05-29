@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
+=======
+# IntelliJ IDEA
+.idea/
+*.iml
+>>>>>>> e1ef6e807f6d15242fa4f4fca827698d131d26da
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
 
+<<<<<<< HEAD
 ### Eclipse ###
+=======
+# Eclipse
+>>>>>>> e1ef6e807f6d15242fa4f4fca827698d131d26da
 .apt_generated
 .classpath
 .factorypath
@@ -16,15 +26,26 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+<<<<<<< HEAD
 ### NetBeans ###
+=======
+# NetBeans
+>>>>>>> e1ef6e807f6d15242fa4f4fca827698d131d26da
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
+<<<<<<< HEAD
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
+=======
+# VS Code
+.vscode/
+
+# Mac OS
+>>>>>>> e1ef6e807f6d15242fa4f4fca827698d131d26da
 .DS_Store
