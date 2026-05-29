@@ -12,5 +12,7 @@ public class Ejercicio1CantidadPalabrasFrase {
         String[] palabras = frase.split(" ");
 
         System.out.println("La frase contiene " + palabras.length + " palabras");
+
+        teclado.close();
     }
 }
